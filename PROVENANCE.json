@@ -1,0 +1,35 @@
+{
+  "schema": "x0k.provenance/v1",
+  "publication_uri": "x0k:publication/postcard-serializable",
+  "corpus_rev": "knppwwllnomlmpuksvnzsnzwtmkszqtu",
+  "corpus_commit": "faf06f49d0a2a8ce6449f757f130a31702de0bc7",
+  "path_map": {},
+  "link_rewrites": [],
+  "crates": [
+    "postcard-serializable",
+    "postcard-serializable-types"
+  ],
+  "excluded": [],
+  "excluded_docs": [],
+  "literate_docs": [],
+  "overlay": [],
+  "dropped_generated": [],
+  "severed": [],
+  "documents": {},
+  "modules": [],
+  "modules_dir": null,
+  "module_version": null,
+  "module_version_source": null,
+  "proofs": {},
+  "proofs_run": true,
+  "prebuilt": null,
+  "license_applied": "MIT",
+  "license_source": "publication-doc",
+  "relicensed_from": {
+    "note": "What each crate's manifest declared in the private source tree this projection was taken from. Historical record of the relicense act, not this repository's terms: those are `license_applied` above and the LICENSE-* files beside this record.",
+    "declared": {
+      "postcard-serializable": "LicenseRef-Proprietary",
+      "postcard-serializable-types": "(none)"
+    }
+  }
+}
